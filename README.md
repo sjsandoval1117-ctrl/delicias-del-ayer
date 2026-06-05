@@ -65,15 +65,3 @@ A continuación se presentan todas las capturas de pantalla de la interfaz de la
 *   **Carrito de Compras:** Gestión reactiva que permite añadir productos, modificar cantidades, eliminar elementos y calcular el total en pesos colombianos (COP).
 *   **Integración con WhatsApp:** Generación automática de mensajes con plantillas estructuradas que contienen el resumen del pedido o las especificaciones del pastel personalizado.
 *   **Estado de Horario en Vivo:** Componente basado en la hora del sistema que indica si el establecimiento se encuentra abierto o cerrado según el horario comercial (8:00 AM a 8:00 PM).
-
----
-
-## Pila Tecnológica
-
-*   **Frontend:** React 18+ con TypeScript 5+
-*   **Estilos:** Tailwind CSS v4 para el desarrollo de la interfaz de usuario y bento-grids.
-*   **Animaciones:** Framer Motion (motion/react) para las transiciones entre pestañas y estados globales.
-*   **Iconografía:** Material Symbols Outlined de Google.
-*   **Entorno de Desarrollo:** Vite para el empaquetado y servidor local.
-
----
