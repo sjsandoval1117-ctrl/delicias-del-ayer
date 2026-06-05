@@ -1,9 +1,3 @@
-# README.md
-
-Este archivo contiene la documentación completa, estructurada y visual para el portal web de Delicias del Ayer.
-
----
-
 ## Delicias del Ayer - Portal Web Interactivo
 
 Este repositorio contiene el código fuente de la plataforma web para Delicias del Ayer, una repostería artesanal tradicional ubicada en Bucaramanga. La aplicación permite a los usuarios explorar el catálogo de productos, interactuar con un diseñador de pasteles personalizados y gestionar un carrito de compras que se conecta directamente con el canal de atención de WhatsApp para finalizar los pedidos.
@@ -24,37 +18,13 @@ A continuación se presentan todas las capturas de pantalla de la interfaz de la
 
 ### Vista de Inicio y Navegación Principal
 
-*   **Banner de Bienvenida de la Aplicación:**
-    ![Banner de Bienvenida](./docs/imagenes/Captura%20desde%202026-06-05%2012-39-26.png)
+**Banner de Bienvenida de la Aplicación:**
 
-*   **Estructura Principal y Bloque de Categorías:**
-    ![Estructura Principal](./docs/imagenes/Captura%20desde%202026-06-05%2012-40-27.png)
+![Banner de Bienvenida](./imagenes/Captura%20desde%202026-06-05%2012-39-26.png)
 
-### Catálogo de Productos y Filtros
+**Estructura Principal y Bloque de Categorías:**
 
-*   **Sección de Postres Fríos:**
-    ![Postres Fríos](./imagenes/Captura%20desde%202026-06-05%2012-40-14_2.jpg)
-
-*   **Sección de Postres Calientes:**
-    ![Postres Calientes](./imagenes/Captura%20desde%202026-06-05%2012-40-06_2.jpg)
-
-*   **Ficha de Producto de Gala Extendida:**
-    ![Producto de Gala](./imagenes/Captura%20desde%202026-06-05%2012-39-45_2.jpg)
-
-*   **Interfaz de Búsqueda sin Coincidencias:**
-    ![Sin Coincidencias](./imagenes/Captura%20desde%202026-06-05%2012-39-41.png)
-
-### Gestión de Pedidos, Ubicación y Cierre
-
-*   **Cesta de Compras Lateral Activa:**
-    ![Cesta de Compras](./imagenes/Captura%20desde%202026-06-05%2012-39-36.png)
-
-*   **Módulo de Testimonios y Localización Geográfica:**
-    ![Reseñas y Ubicación](./imagenes/Captura%20desde%202026-06-05%2012-40-19.png)
-
-*   **Pie de Página Institucional:**
-    ![Pie de Página](./imagenes/Captura%20desde%202026-06-05%2012-40-00_2.jpg)
-
+![Estructura Principal](./imagenes/Captura%20desde%202026-06-05%2012-40-27.png)
 ---
 
 ## Características Principales
