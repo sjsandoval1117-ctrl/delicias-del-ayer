@@ -14,29 +14,55 @@ El diseño visual de los componentes, la tipografía y el esquema de colores de 
 
 ## Galería de la Interfaz de Usuario
 
-### Vista de Inicio y Navegación Principal
+### Página de Inicio
 
-![Banner de Bienvenida](./capturas/Captura%20desde%202026-06-05%2012-39-26.png)
+![Inicio](./capturas/inicio.PNG)
 
-![Estructura Principal](./capturas/Captura%20desde%202026-06-05%2012-40-27.png)
+![Inicio 2](./capturas/inicio2.PNG)
+
+![Inicio 3](./capturas/inicio3.PNG)
+
+![Inicio 4](./capturas/inicio4.PNG)
+
+![Inicio 5](./capturas/inicio5.PNG)
+
+### Navegación y Opciones
+
+![Opciones de Página](./capturas/opciones%20de%20pagina.PNG)
 
 ### Catálogo de Productos
 
-![Postres Fríos](./capturas/Captura%20desde%202026-06-05%2012-40-14_2.jpg)
+![Catálogo](./capturas/catalogo.PNG)
 
-![Postres Calientes](./capturas/Captura%20desde%202026-06-05%2012-40-06_2.jpg)
+![Catálogo 2](./capturas/catalogo2.PNG)
 
-![Vista Detallada de Producto](./capturas/Captura%20desde%202026-06-05%2012-39-45_2.jpg)
+![Catálogo 3](./capturas/catalogo3.PNG)
 
-![Búsqueda sin Resultados](./capturas/Captura%20desde%202026-06-05%2012-39-41.png)
+### Personalización de Pasteles
 
-### Carrito y Finalización de Compra
+![Personalizar](./capturas/personalizar.PNG)
 
-![Carrito de Compras](./capturas/Captura%20desde%202026-06-05%2012-39-36.png)
+### Carrito de Compras
 
-![Testimonios y Ubicación](./capturas/Captura%20desde%202026-06-05%2012-40-19.png)
+![Carrito](./capturas/carrito.PNG)
 
-![Pie de Página](./capturas/Captura%20desde%202026-06-05%2012-40-00_2.jpg)
+### Comentarios y Opiniones
+
+![Comentarios](./capturas/comentarios.PNG)
+
+### Horario de Atención
+
+![Horario](./capturas/horario.PNG)
+
+### Preguntas Frecuentes
+
+![Preguntas](./capturas/preguntas.PNG)
+
+![Dudas](./capturas/dudas.PNG)
+
+### Captura Adicional
+
+![Captura 2](./capturas/Captura2.PNG)
 
 ---
 
