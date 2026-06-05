@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nombre": "Velvet del Ayer",
+    "ingredientes": "Bizcocho rojo, frosting de queso crema y frutos rojos frescos (fresas, moras, arándanos)"
+  },
+  {
+    "id": 2,
+    "nombre": "Torta de Chocolate \"Abuela\"",
+    "ingredientes": "Cacao puro concentrado, bizcocho húmedo tradicional y ganache de chocolate oscuro"
+  },
+  {
+    "id": 3,
+    "nombre": "Tartaleta Cítrica Real",
+    "ingredientes": "Base de masa quebrada crujiente, crema de limón cítrica y merengue italiano horneado"
+  },
+  {
+    "id": 4,
+    "nombre": "Dona de Lavanda y Miel",
+    "ingredientes": "Masa de dona suave, glaseado de chocolate, hilos de miel artesanal y flores de lavanda"
+  },
+  {
+    "id": 5,
+    "nombre": "Milhojas de Antaño",
+    "ingredientes": "Capas de hojaldre crujiente artesanal, abundante arequipe cremoso y azúcar glass"
+  },
+  {
+    "id": 6,
+    "nombre": "Pandebono de la Casa",
+    "ingredientes": "Almidón de yuca, harina de maíz, queso costeño/fundido, huevo y leche"
+  }
+]

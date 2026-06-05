@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delicias del Ayer - Panel de Control</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fcf8f2;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #8b4513;
+        }
+        .contenedor-tabla {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            cursor: pointer;
+        }
+        th, td {
+            padding: 12px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+        th {
+            background-color: #8b4513;
+            color: white;
+        }
+        tr:hover {
+            background-color: #f9f5eb;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Delicias del Ayer - Lista de Ingredientes</h1>
+
+    <div class="contenedor-tabla">
+        <table id="tabla-registros">
+            <thead>
+                <tr>
+                    <th>id</th>
+                    <th>nombre</th>
+                    <th>ingredientes</th>
+                </tr>
+            </thead>
+            <tbody id="datos-tabla">
+                <tr>
+                    <td colspan="3" style="text-align: center; color: #888;">Haz clic sobre la tabla para cargar los ingredientes...</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <script src="consumo_sheets.js"></script>
+</body>
+</html>
