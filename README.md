@@ -14,17 +14,30 @@ El diseño visual de los componentes, la tipografía y el esquema de colores de 
 
 ## Galería de la Interfaz de Usuario
 
-A continuación se presentan todas las capturas de pantalla de la interfaz de la aplicación, organizadas detalladamente según el flujo del usuario:
-
 ### Vista de Inicio y Navegación Principal
 
-**Banner de Bienvenida de la Aplicación:**
+![Banner de Bienvenida](./capturas/Captura%20desde%202026-06-05%2012-39-26.png)
 
-![Banner de Bienvenida](./imagenes/Captura%20desde%202026-06-05%2012-39-26.png)
+![Estructura Principal](./capturas/Captura%20desde%202026-06-05%2012-40-27.png)
 
-**Estructura Principal y Bloque de Categorías:**
+### Catálogo de Productos
 
-![Estructura Principal](./imagenes/Captura%20desde%202026-06-05%2012-40-27.png)
+![Postres Fríos](./capturas/Captura%20desde%202026-06-05%2012-40-14_2.jpg)
+
+![Postres Calientes](./capturas/Captura%20desde%202026-06-05%2012-40-06_2.jpg)
+
+![Vista Detallada de Producto](./capturas/Captura%20desde%202026-06-05%2012-39-45_2.jpg)
+
+![Búsqueda sin Resultados](./capturas/Captura%20desde%202026-06-05%2012-39-41.png)
+
+### Carrito y Finalización de Compra
+
+![Carrito de Compras](./capturas/Captura%20desde%202026-06-05%2012-39-36.png)
+
+![Testimonios y Ubicación](./capturas/Captura%20desde%202026-06-05%2012-40-19.png)
+
+![Pie de Página](./capturas/Captura%20desde%202026-06-05%2012-40-00_2.jpg)
+
 ---
 
 ## Características Principales
