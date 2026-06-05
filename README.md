@@ -25,35 +25,35 @@ A continuación se presentan todas las capturas de pantalla de la interfaz de la
 ### Vista de Inicio y Navegación Principal
 
 *   **Banner de Bienvenida de la Aplicación:**
-    ![Banner de Bienvenida](./docs/imagenes/Captura%20desde%202026-06-05%2012-39-26.jpg)
+    ![Banner de Bienvenida](./docs/imagenes/Captura%20desde%202026-06-05%2012-39-26.png)
 
 *   **Estructura Principal y Bloque de Categorías:**
-    ![Estructura Principal](./docs/imagenes/Captura%20desde%202026-06-05%2012-40-27_2.jpg)
+    ![Estructura Principal](./docs/imagenes/Captura%20desde%202026-06-05%2012-40-27.png)
 
 ### Catálogo de Productos y Filtros
 
 *   **Sección de Postres Fríos:**
-    ![Postres Fríos](./docs/imagenes/Captura%20desde%202026-06-05%2012-40-14_2.jpg)
+    ![Postres Fríos](./imagenes/Captura%20desde%202026-06-05%2012-40-14_2.jpg)
 
 *   **Sección de Postres Calientes:**
-    ![Postres Calientes](./docs/imagenes/Captura%20desde%202026-06-05%2012-40-06_2.jpg)
+    ![Postres Calientes](./imagenes/Captura%20desde%202026-06-05%2012-40-06_2.jpg)
 
 *   **Ficha de Producto de Gala Extendida:**
-    ![Producto de Gala](./docs/imagenes/Captura%20desde%202026-06-05%2012-39-45_2.jpg)
+    ![Producto de Gala](./imagenes/Captura%20desde%202026-06-05%2012-39-45_2.jpg)
 
 *   **Interfaz de Búsqueda sin Coincidencias:**
-    ![Sin Coincidencias](./docs/imagenes/Captura%20desde%202026-06-05%2012-39-41_2.jpg)
+    ![Sin Coincidencias](./imagenes/Captura%20desde%202026-06-05%2012-39-41.png)
 
 ### Gestión de Pedidos, Ubicación y Cierre
 
 *   **Cesta de Compras Lateral Activa:**
-    ![Cesta de Compras](./docs/imagenes/Captura%20desde%202026-06-05%2012-39-36.jpg)
+    ![Cesta de Compras](./imagenes/Captura%20desde%202026-06-05%2012-39-36.png)
 
 *   **Módulo de Testimonios y Localización Geográfica:**
-    ![Reseñas y Ubicación](./docs/imagenes/Captura%20desde%202026-06-05%2012-40-19_2.jpg)
+    ![Reseñas y Ubicación](./imagenes/Captura%20desde%202026-06-05%2012-40-19.png)
 
 *   **Pie de Página Institucional:**
-    ![Pie de Página](./docs/imagenes/Captura%20desde%202026-06-05%2012-40-00_2.jpg)
+    ![Pie de Página](./imagenes/Captura%20desde%202026-06-05%2012-40-00_2.jpg)
 
 ---
 
@@ -63,6 +63,17 @@ A continuación se presentan todas las capturas de pantalla de la interfaz de la
 *   **Catálogo Filtrable:** Sistema de búsqueda en tiempo real por texto y filtrado estricto por las categorías configuradas en la aplicación (frio, caliente, pastel).
 *   **Diseñador de Pasteles:** Formulario interactivo que permite seleccionar sabores de bizcocho, tamaños, rellenos, añadir un mensaje personalizado y cargar una imagen de referencia.
 *   **Carrito de Compras:** Gestión reactiva que permite añadir productos, modificar cantidades, eliminar elementos y calcular el total en pesos colombianos (COP).
+*   **Integración con WhatsApp:** Generación automática de mensajes con plantillas estructuradas que contienen el resumen del pedido o las especificaciones del pastel personalizado.
 *   **Estado de Horario en Vivo:** Componente basado en la hora del sistema que indica si el establecimiento se encuentra abierto o cerrado según el horario comercial (8:00 AM a 8:00 PM).
+
+---
+
+## Pila Tecnológica
+
+*   **Frontend:** React 18+ con TypeScript 5+
+*   **Estilos:** Tailwind CSS v4 para el desarrollo de la interfaz de usuario y bento-grids.
+*   **Animaciones:** Framer Motion (motion/react) para las transiciones entre pestañas y estados globales.
+*   **Iconografía:** Material Symbols Outlined de Google.
+*   **Entorno de Desarrollo:** Vite para el empaquetado y servidor local.
 
 ---
